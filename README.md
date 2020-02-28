@@ -9,7 +9,7 @@ A simple, highly customizable and ultra light-weight (~1KB) plugin for smoothly 
 ------
 **1. At first include [jQuery](http://jquery.com/download/) and jquery.toTop.js**
 ````html
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="jquery.toTop.min.js"></script>
 ````
 
